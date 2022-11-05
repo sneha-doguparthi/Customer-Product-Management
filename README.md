@@ -4,13 +4,25 @@ This is a web application where in a customer representative can update the prod
 
 ## Project Setup
 
-Clone the repository and run the client and server repositories 
+Clone the repository and run the client and server modules
 
-# Planning phase
+## Planning phase
 
-image.png
+![image](https://user-images.githubusercontent.com/65627723/200141991-20f039cc-41ad-4b53-b3ba-36a91e973f19.png)
 
-image.png
+![image](https://user-images.githubusercontent.com/65627723/200142012-321b570e-e912-4bdc-9508-9938fa8b9494.png)
+
+## Schema
+
+![WhatsApp Image 2022-11-05 at 6 43 44 PM](https://user-images.githubusercontent.com/65627723/200142426-8f1fd449-204a-495b-802b-d32309b7a612.jpeg)
+
+
+## Recording of the working application
+
+[customer-product.webm](https://user-images.githubusercontent.com/65627723/200142060-1d1e1356-3a47-4504-9ed9-2e408219af8f.webm)
+
+
+
 
 ## Tech Stack
 [React], [Node], [MySQL]
